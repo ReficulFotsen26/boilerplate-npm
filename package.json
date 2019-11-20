@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Joseph Grijalva",
 	"description": "This is a project for free code camp",
-	"keywords": ["javascript", "npm", "freecodecamp", "boilerplate"],
+	"keywords": [ "freecodecamp", "javascript", "npm", "boilerplate" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
