@@ -4,6 +4,7 @@
 	"description": "This is a project for free code camp",
 	"keywords": [ "freecodecamp", "javascript", "npm", "boilerplate" ],
 	"license": "placeholder license",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
